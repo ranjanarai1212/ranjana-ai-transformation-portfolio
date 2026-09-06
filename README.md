@@ -1,27 +1,33 @@
-# Ranjana Kumari — AI Transformation Portfolio
+# Customer Experience Sentiment — Demonstration
 
-![AI Transformation](https://img.shields.io/badge/AI-Transformation-111827)
-![Program Leadership](https://img.shields.io/badge/Program-Leadership-4b5563)
-![Cloud](https://img.shields.io/badge/Cloud-Data%20Modernisation-6b7280)
-![CRM](https://img.shields.io/badge/CRM-Salesforce-7c3aed)
-![Data](https://img.shields.io/badge/Data-Snowflake%20%7C%20Databricks-059669)
+## Purpose
 
-## Senior AI Transformation Leader
+A small AI/ML portfolio demonstration showing how customer feedback could be classified into sentiment and themes to support CX decision-making.
 
-16 years of experience translating business strategy into enterprise transformation across AI, cloud, data, CRM and ERP.
+## Flow
 
-### Portfolio
+```text
+Customer Feedback
+       |
+       v
+Text Pre-processing
+       |
+       v
+Sentiment / Theme Classification
+       |
+       v
+Dashboard / Alerts
+       |
+       v
+CX Action
+```
 
-- [AI Enterprise Transformation](../ai-enterprise-transformation/)
-- [Cloud Modernisation](../cloud-modernisation/)
-- [Data Modernisation](../data-modernisation/)
-- [Customer Experience AI](../customer-experience-ai/)
-- [CRM Transformation](../crm-transformation/)
-- [SAP & ServiceNow Transformation](../sap-servicenow-transformation/)
-- [Transformation Leadership](../transformation-leadership/)
+## Example outputs
 
-## Architecture Visuals
+- Positive / neutral / negative sentiment
+- Recurring themes
+- Emerging issues
+- Service-quality trends
+- Escalation candidates
 
-The `architecture/` folder contains editable SVG diagrams designed for GitHub README pages and presentations.
-
-> Note: Architecture diagrams are strategic reference models derived from the transformation experience described in my CV. They are not confidential client architectures.
+This is a synthetic portfolio example and does not use confidential customer data.
