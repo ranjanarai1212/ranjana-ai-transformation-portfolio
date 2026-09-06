@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+  <rect width="1400" height="800" fill="#ffffff"/>
+  <text x="70" y="70" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111827">AI-Powered Enterprise Transformation</text>
+  <text x="70" y="108" font-family="Arial, sans-serif" font-size="18" fill="#6b7280">Strategic reference architecture for enterprise AI adoption</text>
+  
+<g font-family="Arial, sans-serif">
+  <rect x="70" y="165" width="1260" height="95" rx="18" fill="#f3f4f6" stroke="#d1d5db"/>
+  <text x="700" y="205" text-anchor="middle" font-size="22" font-weight="700" fill="#111827">BUSINESS STRATEGY &amp; TRANSFORMATION PRIORITIES</text>
+  <text x="700" y="235" text-anchor="middle" font-size="16" fill="#4b5563">Growth • Efficiency • Customer Experience • Intelligent Operations</text>
+
+  <line x1="700" y1="260" x2="700" y2="315" stroke="#6b7280" stroke-width="3"/>
+  <polygon points="690,315 710,315 700,335" fill="#6b7280"/>
+
+  <rect x="100" y="335" width="350" height="180" rx="18" fill="#eef2ff" stroke="#818cf8"/>
+  <text x="275" y="375" text-anchor="middle" font-size="24" font-weight="700" fill="#312e81">ENTERPRISE DATA</text>
+  <text x="275" y="415" text-anchor="middle" font-size="17" fill="#374151">SAP</text>
+  <text x="275" y="445" text-anchor="middle" font-size="17" fill="#374151">ServiceNow</text>
+  <text x="275" y="475" text-anchor="middle" font-size="17" fill="#374151">Salesforce</text>
+  <text x="275" y="505" text-anchor="middle" font-size="17" fill="#374151">Operational data</text>
+
+  <rect x="525" y="335" width="350" height="180" rx="18" fill="#ecfdf5" stroke="#34d399"/>
+  <text x="700" y="375" text-anchor="middle" font-size="24" font-weight="700" fill="#065f46">AI / ML LAYER</text>
+  <text x="700" y="415" text-anchor="middle" font-size="17" fill="#374151">Predictive analytics</text>
+  <text x="700" y="445" text-anchor="middle" font-size="17" fill="#374151">AI insights</text>
+  <text x="700" y="475" text-anchor="middle" font-size="17" fill="#374151">Sentiment analysis</text>
+  <text x="700" y="505" text-anchor="middle" font-size="17" fill="#374151">Automation / GenAI</text>
+
+  <rect x="950" y="335" width="350" height="180" rx="18" fill="#fff7ed" stroke="#fb923c"/>
+  <text x="1125" y="375" text-anchor="middle" font-size="24" font-weight="700" fill="#9a3412">PLATFORM LAYER</text>
+  <text x="1125" y="415" text-anchor="middle" font-size="17" fill="#374151">Cloud</text>
+  <text x="1125" y="445" text-anchor="middle" font-size="17" fill="#374151">Snowflake / Databricks</text>
+  <text x="1125" y="475" text-anchor="middle" font-size="17" fill="#374151">CRM / ERP</text>
+  <text x="1125" y="505" text-anchor="middle" font-size="17" fill="#374151">APIs &amp; integration</text>
+
+  <line x1="450" y1="425" x2="525" y2="425" stroke="#6b7280" stroke-width="3"/>
+  <polygon points="525,415 525,435 545,425" fill="#6b7280"/>
+  <line x1="875" y1="425" x2="950" y2="425" stroke="#6b7280" stroke-width="3"/>
+  <polygon points="950,415 950,435 970,425" fill="#6b7280"/>
+
+  <rect x="220" y="590" width="960" height="105" rx="18" fill="#111827"/>
+  <text x="700" y="630" text-anchor="middle" font-size="24" font-weight="700" fill="#ffffff">MEASURABLE BUSINESS OUTCOMES</text>
+  <text x="700" y="665" text-anchor="middle" font-size="17" fill="#e5e7eb">Cost optimisation • Faster decisions • Better CX • Scalable transformation</text>
+</g>
+
+</svg>

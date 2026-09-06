@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+  <rect width="1400" height="800" fill="#ffffff"/>
+  <text x="70" y="70" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111827">Transformation Leadership Operating Model</text>
+  <text x="70" y="108" font-family="Arial, sans-serif" font-size="18" fill="#6b7280">How strategy, technology, people and governance connect to business outcomes</text>
+  
+<g font-family="Arial, sans-serif">
+  <circle cx="700" cy="405" r="125" fill="#111827"/>
+  <text x="700" y="390" text-anchor="middle" font-size="26" font-weight="700" fill="#fff">TRANSFORMATION</text>
+  <text x="700" y="425" text-anchor="middle" font-size="22" fill="#e5e7eb">LEADERSHIP</text>
+
+  <g fill="#f9fafb" stroke="#9ca3af">
+    <rect x="95" y="170" width="260" height="115" rx="18"/>
+    <rect x="570" y="155" width="260" height="115" rx="18"/>
+    <rect x="1045" y="170" width="260" height="115" rx="18"/>
+    <rect x="1045" y="545" width="260" height="115" rx="18"/>
+    <rect x="570" y="560" width="260" height="115" rx="18"/>
+    <rect x="95" y="545" width="260" height="115" rx="18"/>
+  </g>
+  <g font-size="20" text-anchor="middle" fill="#111827">
+    <text x="225" y="220" font-weight="700">STRATEGY</text><text x="225" y="250">Vision → Roadmap</text>
+    <text x="700" y="205" font-weight="700">TECHNOLOGY</text><text x="700" y="235">AI • Cloud • Data</text>
+    <text x="1175" y="220" font-weight="700">STAKEHOLDERS</text><text x="1175" y="250">Executive alignment</text>
+    <text x="1175" y="595" font-weight="700">DELIVERY</text><text x="1175" y="625">Execution • Risk • Dependencies</text>
+    <text x="700" y="610" font-weight="700">GOVERNANCE</text><text x="700" y="640">Accountability • Decisions</text>
+    <text x="225" y="595" font-weight="700">CHANGE</text><text x="225" y="625">Adoption • Value</text>
+  </g>
+  <g stroke="#6b7280" stroke-width="3">
+    <line x1="355" y1="230" x2="575" y2="340"/><line x1="700" y1="270" x2="700" y2="280"/>
+    <line x1="1045" y1="230" x2="825" y2="340"/><line x1="1045" y1="602" x2="825" y2="470"/>
+    <line x1="700" y1="560" x2="700" y2="530"/><line x1="355" y1="602" x2="575" y2="470"/>
+  </g>
+</g>
+
+</svg>

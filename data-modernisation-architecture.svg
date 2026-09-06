@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+  <rect width="1400" height="800" fill="#ffffff"/>
+  <text x="70" y="70" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111827">Enterprise Data Modernisation</text>
+  <text x="70" y="108" font-family="Arial, sans-serif" font-size="18" fill="#6b7280">Reference architecture connecting enterprise platforms to AI and analytics</text>
+  
+<g font-family="Arial, sans-serif">
+  <text x="175" y="180" text-anchor="middle" font-size="20" font-weight="700" fill="#111827">SOURCE SYSTEMS</text>
+  <text x="470" y="180" text-anchor="middle" font-size="20" font-weight="700" fill="#111827">INTEGRATION</text>
+  <text x="760" y="180" text-anchor="middle" font-size="20" font-weight="700" fill="#111827">CLOUD DATA</text>
+  <text x="1050" y="180" text-anchor="middle" font-size="20" font-weight="700" fill="#111827">AI &amp; ANALYTICS</text>
+  <text x="1290" y="180" text-anchor="middle" font-size="20" font-weight="700" fill="#111827">OUTCOMES</text>
+
+  <g fill="#f9fafb" stroke="#9ca3af">
+    <rect x="60" y="225" width="230" height="80" rx="14"/><rect x="60" y="330" width="230" height="80" rx="14"/>
+    <rect x="60" y="435" width="230" height="80" rx="14"/><rect x="60" y="540" width="230" height="80" rx="14"/>
+  </g>
+  <g font-size="18" fill="#374151" text-anchor="middle">
+    <text x="175" y="273">SAP</text><text x="175" y="378">ServiceNow</text>
+    <text x="175" y="483">Salesforce</text><text x="175" y="588">Operational Data</text>
+  </g>
+
+  <rect x="365" y="300" width="210" height="240" rx="18" fill="#eef2ff" stroke="#818cf8"/>
+  <text x="470" y="350" text-anchor="middle" font-size="21" font-weight="700" fill="#312e81">DATA</text>
+  <text x="470" y="390" text-anchor="middle" font-size="18" fill="#374151">Fivetran</text>
+  <text x="470" y="425" text-anchor="middle" font-size="18" fill="#374151">APIs</text>
+  <text x="470" y="460" text-anchor="middle" font-size="18" fill="#374151">ETL / ELT</text>
+  <text x="470" y="495" text-anchor="middle" font-size="18" fill="#374151">Data quality</text>
+
+  <rect x="655" y="270" width="210" height="300" rx="18" fill="#ecfdf5" stroke="#34d399"/>
+  <text x="760" y="325" text-anchor="middle" font-size="21" font-weight="700" fill="#065f46">CLOUD DATA</text>
+  <text x="760" y="375" text-anchor="middle" font-size="18" fill="#374151">Snowflake</text>
+  <text x="760" y="415" text-anchor="middle" font-size="18" fill="#374151">Databricks</text>
+  <text x="760" y="455" text-anchor="middle" font-size="18" fill="#374151">Governance</text>
+  <text x="760" y="495" text-anchor="middle" font-size="18" fill="#374151">Security</text>
+  <text x="760" y="535" text-anchor="middle" font-size="18" fill="#374151">Scalability</text>
+
+  <rect x="945" y="300" width="210" height="240" rx="18" fill="#fff7ed" stroke="#fb923c"/>
+  <text x="1050" y="350" text-anchor="middle" font-size="21" font-weight="700" fill="#9a3412">INTELLIGENCE</text>
+  <text x="1050" y="390" text-anchor="middle" font-size="18" fill="#374151">BI / Power BI</text>
+  <text x="1050" y="425" text-anchor="middle" font-size="18" fill="#374151">AI / ML</text>
+  <text x="1050" y="460" text-anchor="middle" font-size="18" fill="#374151">Forecasting</text>
+  <text x="1050" y="495" text-anchor="middle" font-size="18" fill="#374151">Decision support</text>
+
+  <rect x="1205" y="330" width="170" height="180" rx="18" fill="#111827"/>
+  <text x="1290" y="380" text-anchor="middle" font-size="20" font-weight="700" fill="#fff">BUSINESS</text>
+  <text x="1290" y="420" text-anchor="middle" font-size="16" fill="#e5e7eb">Real-time</text>
+  <text x="1290" y="450" text-anchor="middle" font-size="16" fill="#e5e7eb">decisions</text>
+  <text x="1290" y="480" text-anchor="middle" font-size="16" fill="#e5e7eb">Efficiency</text>
+
+  <g stroke="#6b7280" stroke-width="3" fill="#6b7280">
+    <line x1="290" y1="265" x2="365" y2="350"/><polygon points="365,340 365,360 385,350"/>
+    <line x1="575" y1="420" x2="655" y2="420"/><polygon points="655,410 655,430 675,420"/>
+    <line x1="865" y1="420" x2="945" y2="420"/><polygon points="945,410 945,430 965,420"/>
+    <line x1="1155" y1="420" x2="1205" y2="420"/><polygon points="1205,410 1205,430 1225,420"/>
+  </g>
+</g>
+
+</svg>
